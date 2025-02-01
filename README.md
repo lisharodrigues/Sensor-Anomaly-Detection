@@ -20,17 +20,17 @@ cd sensor-anomaly-detection
 
 ## Anomaly Detection Models:
 
-One-Class SVM: Detects outliers in high-dimensional sensor data.
-DBSCAN: Groups sensor data based on density and identifies outliers.
-Isolation Forest: Identifies anomalies by isolating them from the rest of the data.
+- One-Class SVM: Detects outliers in high-dimensional sensor data.
+- DBSCAN: Groups sensor data based on density and identifies outliers.
+- Isolation Forest: Identifies anomalies by isolating them from the rest of the data.
 
 ## Project Evaluation
 
 The model evaluation provides the following classification metrics for each model:
 
-Precision: Measure of the model's accuracy in identifying anomalies.
-Recall: Measure of the model's ability to correctly identify all anomalies.
-F1 Score: Harmonic mean of precision and recall.
+- Precision: Measure of the model's accuracy in identifying anomalies.
+- Recall: Measure of the model's ability to correctly identify all anomalies.
+- F1 Score: Harmonic mean of precision and recall.
 
 ## Data Visualization
 Sensor Data Distribution: Visualized sensor readings to observe trends and outliers.
