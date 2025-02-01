@@ -60,5 +60,5 @@ Plotted anomalies identified by each model (One-Class SVM, DBSCAN, and Isolation
 ## **Conclusion**
 This project demonstrates the ability to detect abnormal signs in sensor data using different anomaly detection techniques. The performance of each model is evaluated based on its accuracy in identifying anomalies. This approach can be utilized for predictive maintenance and early warning systems in various industries, improving system reliability and minimizing downtime.
 
-# **About**
+## **About**
 This project aims to showcase anomaly detection models applied to sensor data for various real-world applications such as predictive maintenance and system monitoring.
